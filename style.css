@@ -1,15 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 :root{
     --branco:white;
     --cor-de-fundo: #00162E;
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
     --borda: #0075FF;
-    --Bona-Nova-SC: "Bona Nova SC", serif;
+    --Bona-Nova-SC: "Inter", sans-serif;
 
 
 }
 *{
-    font-weigt:400;
+    font-weight:400;
 }
 body{
     color:var(--branco);
